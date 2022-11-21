@@ -1,0 +1,4 @@
+Alice: "Hey, what about g = 5 and p = 3267000013? That ok?"
+Bob: "Yeah, good choices!"
+Alice: "I got 1958258942. You?"
+Bob: "670001116 from me."
